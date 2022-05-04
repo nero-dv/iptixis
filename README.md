@@ -72,6 +72,9 @@ sudo ./main.py
 ## Roadmap
 
 - [ ] Further classification of data
+- [ ] Redis/Kafka/MinIO pipeline
+- [ ] AbuseIPDB integration
+- [ ] Request header classification and CVE cross references for threat level insight
 - [ ] GeoIP API Service Integration
 - [ ] Visualizations
 
