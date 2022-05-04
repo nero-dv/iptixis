@@ -63,9 +63,9 @@ This script can run on almost any server that runs Python 3.7+. The standard apa
 
 ### Installation
 
-gh repo clone nero-dv/iptixis && \ <br>
+<!--gh repo clone nero-dv/iptixis && \ <br>
 sudo chmod A+X iptixis/main.py && \ <br> 
-sudo ./main.py
+sudo ./main.py--!>
 
 
 <!-- ROADMAP -->
